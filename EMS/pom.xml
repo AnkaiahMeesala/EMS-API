@@ -80,5 +80,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>ems-app</finalName>
 	</build>
 </project>
